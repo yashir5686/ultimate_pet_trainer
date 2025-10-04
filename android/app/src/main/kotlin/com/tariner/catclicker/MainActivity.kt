@@ -1,4 +1,4 @@
-package com.android.ultimatepetclicker
+package com.tariner.catclicker
 
 import io.flutter.embedding.android.FlutterActivity
 
